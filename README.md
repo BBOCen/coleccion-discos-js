@@ -28,12 +28,12 @@ El proyecto está estructurado en tres clases principales:
 
   Clase Autor:
   
-    -Almacena el nombre, fecha de nacimiento y discos publicados.
+  -Almacena el nombre, fecha de nacimiento y discos publicados.
     
   Clase Disco:
   
-    -Contiene información sobre el disco, incluyendo su nombre, autor, fecha de publicación, tipo de música, estado (prestado/disponible) y ubicación dentro de la colección.
+  -Contiene información sobre el disco, incluyendo su nombre, autor, fecha de publicación, tipo de música, estado (prestado/disponible) y ubicación dentro de la colección.
     
   Clase Coleccion:
   
-    -Maneja la lista de estanterías y la capacidad de almacenamiento (máximo 10 discos por estantería).
+  -Maneja la lista de estanterías y la capacidad de almacenamiento (máximo 10 discos por estantería).
