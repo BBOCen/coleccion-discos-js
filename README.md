@@ -1,4 +1,5 @@
 🎵 Gestión de Colección de Discos Musicales 🎵
+
 Este proyecto es una aplicación en JavaScript que simula la gestión de una colección de discos musicales. No está diseñado para la reproducción de música, sino para la gestión de información mediante la introducción de datos por consola. La aplicación permite a los usuarios organizar, buscar y administrar su colección de discos de manera sencilla e intuitiva a través de una interfaz basada en consola.
 
 🚀 Funcionalidades principales:
