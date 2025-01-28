@@ -38,3 +38,5 @@ El proyecto está estructurado en tres clases principales:
   Clase Coleccion:
   
   -Maneja la lista de estanterías y la capacidad de almacenamiento (máximo 10 discos por estantería).
+
+Puedes ejecutar esta aplicación en este enlace: https://bbocen.github.io/coleccion-discos-js/coleccion_discos_js/index.html
